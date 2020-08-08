@@ -13,7 +13,7 @@
   "peerDependencies": {
     "marcin-test-modulea": "2.0.0"
   },
-  "dependencies": {
+  "devDependencies": {
     "marcin-test-modulea": "2.0.0"
   },
   "author": "",
