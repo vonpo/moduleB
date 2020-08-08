@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/vonpo/moduleB.git"
   },
+  "peerDependencies": {
+    "marcin-test-modulea": "2.0.0"
+  },
   "dependencies": {
-    "moduleA": "github:vonpo/moduleA#masterV2"
+    "marcin-test-modulea": "2.0.0"
   },
   "author": "",
   "license": "ISC",

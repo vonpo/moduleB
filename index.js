@@ -1,7 +1,7 @@
-const moduleA = require('moduleA');
+const moduleA = require('marcin-test-modulea');
 
 function getValue () {
-  return 'module-b-master-v4' + ' ' + moduleA.getValue();
+  return 'module-b-master-v5' + ' ' + moduleA.getValue();
 }
 
 module.exports = {
