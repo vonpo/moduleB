@@ -1,7 +1,7 @@
 const moduleA = require('moduleA');
 
 function getValue () {
-  return 'module-b-master-v3' + ' ' + moduleA.getValue();
+  return 'module-b-master-v4' + ' ' + moduleA.getValue();
 }
 
 module.exports = {
